@@ -1,0 +1,33 @@
+h1{
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  text-align: center;
+}
+
+.centrarElementos{
+
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.resultado{
+
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+}
+
+body{
+
+  background-image: url("./assets/money2.jpg");
+  /* background-repeat: no-repeat; */
+  background-position: center;
+}
+
+.footer{
+  text-align: center;
+}
